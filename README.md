@@ -3,6 +3,7 @@
 ## Overview
 This project delivers an interactive **Power BI dashboard** to track and analyze hospital patient waiting lists.  
 The solution provides real-time visibility into inpatient and outpatient categories, helping stakeholders identify trends, bottlenecks, and specialty-level breakdowns.
+<img width="1164" height="652" alt="image" src="https://github.com/user-attachments/assets/bc6c1cfa-f6a7-4f59-98e2-875d17f282aa" />
 
 ## Objectives
 - Track **current status** of patient waiting lists
